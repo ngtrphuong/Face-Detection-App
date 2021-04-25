@@ -1,9 +1,30 @@
 
 # Real time face recognition in Android 
 
+## Programming Language used:
+Java
 
-[![example 1](http://img.youtube.com/vi/V1IflHa8AAY/0.jpg)](https://youtu.be/V1IflHa8AAY "demo 1")
-[![example 2](http://img.youtube.com/vi/y-1lO3m-SRI/0.jpg)](https://youtu.be/y-1lO3m-SRI "demo 2")
+### Library used:
 
+<li> TensorflowLite </li>
+
+*Platform used*:
+<li>Android Studio </li>
+
+#### Andoid Version :
+11
+
+#### Features
+<li>
+  Uses front as well as back camera for face recognition
+  The device camera can be used to detect faces on real time streaming
+  Faces can be added with name labels
+  </li>
+  
+  
+  
+  
+  
+ 
 
 
