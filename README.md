@@ -14,11 +14,11 @@ Java
 #### Andoid Version :
 11
 
-#### Features
+##### Features
 <li>
-  Uses front as well as back camera for face recognition
-  The device camera can be used to detect faces on real time streaming
-  Faces can be added with name labels
+  Uses front as well as back camera for face recognition</li>
+  <li> The device camera can be used to detect faces on real time streaming</li>
+  <li> Faces can be added with name labels</li>
   </li>
   
   
