@@ -8,7 +8,7 @@ Java
 
 <li> TensorflowLite </li>
 
-*Platform used*:
+####*Platform used*:
 <li>Android Studio </li>
 
 #### Andoid Version :
